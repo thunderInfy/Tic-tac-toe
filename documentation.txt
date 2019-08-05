@@ -1,0 +1,6 @@
+Done : This is the simplest game which we're trying to make. First, let's build a normal 2 player tic tac toe game.
+'b' = blank
+'x' = cross
+'o' = circle
+
+TODO : Building a structure for parent, child nodes with last action taken.
